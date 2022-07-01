@@ -1,0 +1,1 @@
+The output from the null streets will be saved in this folder. All other output is saved in the directory above this (i.e. Output/).
